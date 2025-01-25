@@ -44,6 +44,9 @@ const flowBusquedGpt = addKeyword(EVENTS.ACTION)
     .addAnswer("flow de busqueda en gpt")
 
 
+const flowMeme = addKeyword(EVENTS.ACTION)
+    .addAnswer("Flow de memes y videos ")
+
 
 
 

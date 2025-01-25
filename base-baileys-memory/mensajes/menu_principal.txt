@@ -4,7 +4,7 @@
 1. Agendar evento
 2. Buscar evento por fecha
 3. Poner alarma
-4. Buscar noticias
+4. Videos o Memes recomendados por Autor 
 5. GPT
 6. Salir
 -----------------------------
