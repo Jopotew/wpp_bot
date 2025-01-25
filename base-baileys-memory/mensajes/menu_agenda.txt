@@ -1,0 +1,9 @@
+-----------------------------
+        Calendario
+-----------------------------
+1. Revisar calendario semanal
+2. Revisar el días
+3. Crear eventos
+4. Volver
+-----------------------------
+Por favor, selecciona una opción (1-4):
